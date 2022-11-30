@@ -15,12 +15,12 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [goQuality](https://github.com/JewooSin/)
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
->개발 기간: 2022.9.3 ~ 2019.11.25
+### 1. [Toothfriends](https://github.com/JewooSin/Tooth-friends)
+>치아 건강 시스템 (개인 프로젝트)  
+>개발 기간: 2022.9.3 ~ 2022.12.25
 >  
 >기술 스택:  
 >Python / 
 >
 >  
->[프로젝트 상세 설명](https://github.com/JewooSin/) 참고
+>[프로젝트 상세 설명](https://github.com/JewooSin/Tooth-friends) 참고
